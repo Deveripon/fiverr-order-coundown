@@ -1,0 +1,23 @@
+form {
+	font-family: Raleway;
+	input {
+		padding: 5px;
+		border-right: 1px solid red;
+		border-top: 0;
+		border-left: 0;
+		border-bottom: 0;
+		outline: none;
+	}
+	input[type="submit"] {
+		border: none;
+		color: #fff;
+	}
+}
+.counter-section {
+	margin-top: 70px;
+	span {
+		font-weight: 100;
+		font-family: roboto slab;
+		font-size: 100px;
+	}
+}
